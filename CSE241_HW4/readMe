@@ -1,0 +1,10 @@
+Mustafa GURLER
+171044034
+HW4 EXPLANATION
+
+**Load function is running : USER1 MOVE: LOAD "filename.txt" 
+**Save function is running : USER1 MOVE: SAVE "filename.txt" exits the game
+**Undo function is running : USER1 MOVE: UNDO "random value" it goes back one round if user2 exist or two round back
+  if computer exist
+**EXIT function is running : USER1 MOVE: EXIT "RANDOM value" goes back to main menu
+**Score function is running: USER1 MOVE: SCORE "Random value" gives to score and round-1;
